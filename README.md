@@ -1,5 +1,7 @@
 ## Phoenix Dev Image
 
+[![](https://badge.imagelayers.io/guiceolin/docker-phoenix-dev:latest.svg)](https://imagelayers.io/?images=guiceolin/docker-phoenix-dev:latest 'Get your own badge on imagelayers.io')
+
 This image has an complete enviroment to developing apps using [Elixir](elixir-lang.org) and [Phoenix Framework](http://phoenixframework.org)
 
 #### USAGE
