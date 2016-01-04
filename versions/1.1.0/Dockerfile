@@ -1,4 +1,4 @@
-FROM msaraiva/elixir-dev:lastest
+FROM msaraiva/elixir-dev:latest
 MAINTAINER Guilherme Ceolin <guiceolin@gmail.com>
 
 RUN apk --update add postgresql-client nodejs && \
